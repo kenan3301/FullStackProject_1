@@ -4,15 +4,18 @@ Background of the problem statement:
 
  Flow of the program:
 
-The program starts and prompts the user to enter the directory path.
-The program creates a File object with the specified path.
-The program gets a list of files in the directory and stores them in an ArrayList.
-The program prompts the user to enter a file name to search for.
-The program uses the binary search algorithm to search for the specified file name in the ArrayList.
-If the file is found, the program displays a message indicating the file was found.
-If the file is not found, the program displays a message indicating the file was not found.
-The program sorts the ArrayList using the bubble sort algorithm in ascending order.
-The program displays the sorted list of files.
+Display welcome screen and main menu options.
+User selects an option from the main menu.
+Depending on the option selected, perform the following operations:
+
+a. Option 1: Display all files in the directory.
+b. Option 2: Add a file to the directory.
+c. Option 3: Search for a file in the directory.
+d. Option 4: Exit the program.
+
+If the user enters an invalid input, display an error message and prompt the user again.
+Once the user selects the "Exit" option, exit the program.
+
 I hope this helps!
 
  
