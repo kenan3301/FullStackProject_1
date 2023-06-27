@@ -2,9 +2,9 @@
 FullStackProject_1(LockMe.com)_ Java Code
 Background of the problem statement:
 
- Flow of the program:
+ The flow of the program:
 
-Display welcome screen and main menu options.
+Displayed welcome screen and main menu options.
 User selects an option from the main menu.
 Depending on the option selected, perform the following operations:
 
